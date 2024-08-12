@@ -1,3 +1,3 @@
 # Problem_Solving
 
-Search by name of the Problem and try to solve it first.
+## Search by Name of the Problem and try to solve it by yourself firstly 😊
